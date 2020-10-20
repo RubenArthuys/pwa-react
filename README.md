@@ -1,4 +1,4 @@
-Simple weather app in React, using a Progressive Web App style.
+Light weather app in React, using a Progressive Web App style.
 With serviceworker passing 'lighthouse test'.
 
 ## Deployed at : https://keen-fermi-0f68c2.netlify.app
